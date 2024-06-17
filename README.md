@@ -1,7 +1,7 @@
 # udacity_project3: LinhLTT
 ## Source Code Structure
 ```bash
-udacity-stedi-datalake 
+linhltt_project3_udacity
 ├── glue_script
 │   ├── accelerometer_landing_to_trusted.py
 │   ├── customer_landing_to_trusted.py
